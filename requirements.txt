@@ -1,0 +1,5 @@
+matplotlib>=3.6
+numpy
+reportlab
+arabic-reshaper
+python-bidi

@@ -1,0 +1,79 @@
+{
+ "area_geom": 3999.6,
+ "area_legal": 4000.0,
+ "env_a": 2419.9,
+ "env_b": 2490.4,
+ "cov_max": 1080.0,
+ "gf": 1080.0,
+ "ff": 1080.0,
+ "roof": 540.0,
+ "floor_area": 2700.0,
+ "far": 0.675,
+ "green": 400.0,
+ "base_legal": 3238.9,
+ "base_env": 2427.7,
+ "base_sides": 819.0,
+ "n_steps": 3,
+ "band_w": 12.0,
+ "env_w": 35.57,
+ "env_l": 68.25,
+ "datum": 6.0,
+ "ceil": 15.0,
+ "ceil_roof": 18.5,
+ "util": 0.4463,
+ "net_saleable": 2376.0,
+ "apts": [
+  {
+   "unit_gross": 120,
+   "units": 22,
+   "parking": 22
+  },
+  {
+   "unit_gross": 150,
+   "units": 18,
+   "parking": 18
+  },
+  {
+   "unit_gross": 180,
+   "units": 15,
+   "parking": 15
+  },
+  {
+   "unit_gross": 200,
+   "units": 13,
+   "parking": 13
+  }
+ ],
+ "villas": [
+  {
+   "units": 6,
+   "footprint": 180.0,
+   "gross_each": 450.0,
+   "parking": 9
+  },
+  {
+   "units": 8,
+   "footprint": 135.0,
+   "gross_each": 337.5,
+   "parking": 9
+  },
+  {
+   "units": 10,
+   "footprint": 108.0,
+   "gross_each": 270.0,
+   "parking": 10
+  },
+  {
+   "units": 12,
+   "footprint": 90.0,
+   "gross_each": 225.0,
+   "parking": 12
+  }
+ ],
+ "corners": {
+  "SW (10 m street, W end)": 0.0,
+  "NW (6 m road, W end)": 4.5,
+  "SE (E flank, S end)": 12.0,
+  "NE (6 m road, E end)": 15.0
+ }
+}

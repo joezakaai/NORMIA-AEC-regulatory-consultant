@@ -1,0 +1,226 @@
+[
+ {
+  "n": 1,
+  "file": "JO-Fig-01.png",
+  "en": "The four setbacks and what a setback is",
+  "ar": "الارتدادات الأربعة وتعريف الارتداد",
+  "art": "Art 2"
+ },
+ {
+  "n": 2,
+  "file": "JO-Fig-02.png",
+  "en": "Minimum subdivision area and plot frontage — residential",
+  "ar": "الحد الأدنى لمساحة الإفراز وواجهة القطعة — المناطق السكنية",
+  "art": "Art 11"
+ },
+ {
+  "n": 3,
+  "file": "JO-Fig-03.png",
+  "en": "Subdivision road width against the number of plots served",
+  "ar": "سعة الطريق المفرزة مقابل عدد القطع المخدومة",
+  "art": "Art 13"
+ },
+ {
+  "n": 4,
+  "file": "JO-Fig-04.png",
+  "en": "Height datum — roads narrower than 8 m are disregarded",
+  "ar": "احتساب الارتفاع — لا تعتمد الطرق التي تقل سعتها عن ٨ أمتار",
+  "art": "Art 15(a)(1)"
+ },
+ {
+  "n": 5,
+  "file": "JO-Fig-05.png",
+  "en": "Where every adjoining road is under 8 m — average them",
+  "ar": "في حال وقوع القطعة على أكثر من طريق تقل سعتها — متوسط مناسيب هذه الطرق",
+  "art": "Art 15(a)(2)"
+ },
+ {
+  "n": 6,
+  "file": "JO-Fig-06.png",
+  "en": "Several buildings — each takes the nearest road",
+  "ar": "أكثر من بناء — يحسب ارتفاع كل بناء من متوسط منسوب الطريق الأقرب له",
+  "art": "Art 15(a)(3)"
+ },
+ {
+  "n": 7,
+  "file": "JO-Fig-07.png",
+  "en": "Natural ground above road level — the Article 15(c) relief",
+  "ar": "احتساب الارتفاع من منسوب الأرض الطبيعية — شريطة عدم وجود طوابق تسوية",
+  "art": "Art 15(c)"
+ },
+ {
+  "n": 8,
+  "file": "JO-Fig-08.png",
+  "en": "Raising the ground-floor slab — maximum 2 m",
+  "ar": "رفع منسوب بلاط الطابق الأرضي بحد أقصى مترين",
+  "art": "Art 15(d)"
+ },
+ {
+  "n": 9,
+  "file": "JO-Fig-09.png",
+  "en": "One road with several levels — use its average",
+  "ar": "قطعة تقع على طريق واحد وفيه مناسيب متعددة — متوسط منسوب هذا الطريق",
+  "art": "Art 15(f)"
+ },
+ {
+  "n": 10,
+  "file": "JO-Fig-10.png",
+  "en": "The basement (قبو) — the 45 cm test and its permitted extent",
+  "ar": "طابق القبو — اختبار الـ ٤٥ سم ومدى امتداده",
+  "art": "Art 2 / Art 28"
+ },
+ {
+  "n": 11,
+  "file": "JO-Fig-11.png",
+  "en": "The semi-basement (تسوية) — the 1.50 m test, and what it costs",
+  "ar": "طابق التسوية — اختبار المتر والنصف",
+  "art": "Art 2"
+ },
+ {
+  "n": 12,
+  "file": "JO-Fig-12.png",
+  "en": "Coverage (النسبة المئوية) — what counts and what is excluded",
+  "ar": "النسبة المئوية للبناء — ما يحتسب وما يستثنى",
+  "art": "Art 2"
+ },
+ {
+  "n": 13,
+  "file": "JO-Fig-13.png",
+  "en": "Floor area (المساحة الطابقية) — the basement and semi-basement drop out",
+  "ar": "المساحة الطابقية — تستثنى طوابق التسوية والأقبية",
+  "art": "Art 2"
+ },
+ {
+  "n": 14,
+  "file": "JO-Fig-14.png",
+  "en": "Development control — Residential A (سكن أ)",
+  "ar": "الأحكام التنظيمية — سكن أ",
+  "art": "Art 16(a)"
+ },
+ {
+  "n": 15,
+  "file": "JO-Fig-15.png",
+  "en": "Development control — Green / Rural Residential",
+  "ar": "الأحكام التنظيمية — السكن الأخضر / الريفي",
+  "art": "Art 16(a)"
+ },
+ {
+  "n": 16,
+  "file": "JO-Fig-16.png",
+  "en": "The height bonuses of Article 16(c) — and when they vanish",
+  "ar": "زيادة الارتفاع وفق المادة ١٦(ج) واستثناءاتها",
+  "art": "Art 16(c)(e)"
+ },
+ {
+  "n": 17,
+  "file": "JO-Fig-17.png",
+  "en": "The 20 m road test of Article 16(e)",
+  "ar": "اختبار الطريق ٢٠ متراً — المادة ١٦(هـ)",
+  "art": "Art 16(e)"
+ },
+ {
+  "n": 18,
+  "file": "JO-Fig-18.png",
+  "en": "The additional floor — Article 16(f)",
+  "ar": "الطابق الإضافي — المادة ١٦(و)",
+  "art": "Art 16(f)"
+ },
+ {
+  "n": 19,
+  "file": "JO-Fig-19.png",
+  "en": "Permitted uses of the basement",
+  "ar": "استعمالات طابق القبو المسموح بها",
+  "art": "Art 38(a)"
+ },
+ {
+  "n": 20,
+  "file": "JO-Fig-20.png",
+  "en": "Projections — balconies, architectural projections and canopies",
+  "ar": "البروز — الشرفات والبروز المعماري ومظلة المدخل",
+  "art": "Art 29"
+ },
+ {
+  "n": 21,
+  "file": "JO-Fig-21.png",
+  "en": "The roof parapet",
+  "ar": "التصوينة",
+  "art": "Art 32"
+ },
+ {
+  "n": 22,
+  "file": "JO-Fig-22.png",
+  "en": "Fences and the 1 m cap on fill within the setbacks",
+  "ar": "الأسوار والطمم في الارتدادات",
+  "art": "Art 33(b)"
+ },
+ {
+  "n": 23,
+  "file": "JO-Fig-23.png",
+  "en": "Decking the setbacks — excluded from both ratios",
+  "ar": "سقف الارتدادات — يستثنى من المساحة الإجمالية والطابقية",
+  "art": "Art 33(d)"
+ },
+ {
+  "n": 24,
+  "file": "JO-Fig-24.png",
+  "en": "The ancillary building — additional to the coverage",
+  "ar": "البناء الفرعي — إضافة إلى النسبة المئوية المسموح بها",
+  "art": "Art 34"
+ },
+ {
+  "n": 25,
+  "file": "JO-Fig-25.png",
+  "en": "Where parking may and may not go in the setbacks",
+  "ar": "مواقف السيارات في الارتدادات",
+  "art": "Art 36(c)(d)"
+ },
+ {
+  "n": 26,
+  "file": "JO-Fig-26.png",
+  "en": "Parking bay and aisle dimensions by angle",
+  "ar": "أبعاد مواقف السيارات وممراتها حسب زاوية الاصطفاف",
+  "art": "Art 37"
+ },
+ {
+  "n": 27,
+  "file": "JO-Fig-27.png",
+  "en": "Garage ramps and internal circulation",
+  "ar": "ممرات الدخول والخروج والممرات الداخلية للمرآب",
+  "art": "Art 38"
+ },
+ {
+  "n": 28,
+  "file": "JO-Fig-28.png",
+  "en": "Outside the planning areas — the Article 44 bands",
+  "ar": "ترخيص الأبنية السكنية خارج مناطق التنظيم",
+  "art": "Art 44"
+ },
+ {
+  "n": 29,
+  "file": "JO-Fig-29.png",
+  "en": "The roof floor — 50%, 3.50 m, half setbacks",
+  "ar": "طابق الروف — النسبة والارتفاع والارتدادات",
+  "art": "Art 48(a)"
+ },
+ {
+  "n": 30,
+  "file": "JO-Fig-30.png",
+  "en": "Steeply sloping and unstable land",
+  "ar": "الأراضي الشديدة الانحدار والقابلة للانهيار أو الانزلاق",
+  "art": "Art 47(s)"
+ },
+ {
+  "n": 31,
+  "file": "JO-Fig-31.png",
+  "en": "The 12 m street serving an investment project — 2025 amendment",
+  "ar": "سعة الشارع الواصل لأرض المشروع — تعديل ٢٠٢٥",
+  "art": "Art 10(f) / 2025"
+ },
+ {
+  "n": 32,
+  "file": "JO-Fig-32.png",
+  "en": "How an encroachment fee is computed",
+  "ar": "طريقة احتساب رسوم التجاوز على الأحكام التنظيمية",
+  "art": "Art 20(b)"
+ }
+]
